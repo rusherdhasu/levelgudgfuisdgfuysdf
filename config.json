@@ -1,6 +1,6 @@
 {
     "discord": {
-        "bot_token": "MTQ2OTMzMzI2NDEyNzc1NDU2Ng.GURrv4.DE17xL1B8cZ4MEysGSdRn1aqhYj3W7U8gNGVcc",
+        "bot_token": "MTQ2OTMzMzI2NDEyNzc1NDU2Ng.GIWd4z.PyFBweF0s_vfeRn7CNXzZkWBKA_JnGFNv4tRe0",
         "command_channel_id": "1452134167302373377",
         "prefix": "/"
     },
@@ -9,4 +9,5 @@
         "log_discord_commands": true,
         "accounts_file": "accounts.txt"
     }
+
 }
