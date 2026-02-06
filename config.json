@@ -1,7 +1,7 @@
 {
     "discord": {
         "bot_token": "MTQ2OTMzMzI2NDEyNzc1NDU2Ng.GqGgwR.0LF2k2WoRlLJ56wqxUhpYiEQ57F36HstYPKq48",
-        "command_channel_id": "1452134167302373377",
+        "command_channel_id": "1453428637826289685",
         "prefix": "/"
     },
     "settings": {
@@ -11,5 +11,6 @@
     }
 
 }
+
 
 
